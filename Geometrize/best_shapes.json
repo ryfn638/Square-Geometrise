@@ -1,0 +1,100 @@
+[
+    {
+        "sizeX": 101,
+        "sizeY": 168,
+        "opacity": 221,
+        "angle": 2.943114757537842,
+        "location_x": 39,
+        "location_y": 57,
+        "avg_rgb": [
+            178,
+            200,
+            212
+        ],
+        "reward": -4229144.150412943
+    },
+    {
+        "sizeX": 113,
+        "sizeY": 132,
+        "opacity": 242,
+        "angle": 2.253230094909668,
+        "location_x": 93,
+        "location_y": 66,
+        "avg_rgb": [
+            169,
+            188,
+            201
+        ],
+        "reward": -4587821.352216269
+    },
+    {
+        "sizeX": 110,
+        "sizeY": 163,
+        "opacity": 246,
+        "angle": 5.877283096313477,
+        "location_x": 108,
+        "location_y": 107,
+        "avg_rgb": [
+            161,
+            189,
+            206
+        ],
+        "reward": -4761697.805678682
+    },
+    {
+        "sizeX": 70,
+        "sizeY": 169,
+        "opacity": 230,
+        "angle": 1.502403974533081,
+        "location_x": 110,
+        "location_y": 100,
+        "avg_rgb": [
+            156,
+            189,
+            210
+        ],
+        "reward": -4967872.749297999
+    },
+    {
+        "sizeX": 91,
+        "sizeY": 128,
+        "opacity": 167,
+        "angle": 6.020990371704102,
+        "location_x": 43,
+        "location_y": 27,
+        "avg_rgb": [
+            191,
+            204,
+            212
+        ],
+        "reward": -5371038.882388064
+    },
+    {
+        "sizeX": 101,
+        "sizeY": 29,
+        "opacity": 182,
+        "angle": 3.550981283187866,
+        "location_x": 48,
+        "location_y": 78,
+        "avg_rgb": [
+            163,
+            186,
+            200
+        ],
+        "reward": -6419643.98975856
+    },
+    {
+        "sizeX": 55,
+        "sizeY": 48,
+        "opacity": 26,
+        "angle": 3.8937087059020996,
+        "location_x": 70,
+        "location_y": 76,
+        "avg_rgb": [
+            166,
+            191,
+            206
+        ],
+        "reward": -6946112.7696806025
+    }
+]
