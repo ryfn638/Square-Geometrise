@@ -13,6 +13,11 @@ https://github.com/user-attachments/assets/ab39451e-175e-4e19-a138-21bf7f136283
 <p> Some other Generation previews</p>
 https://github.com/user-attachments/assets/1c60e211-2cde-4ad3-8088-e2c3c8921ba9
 
+<h2>Change to make</h2>
+<ul>
+  <li><p>Make this in C# or some other low level language, python is too slow.</p></li>
+  <li><p>Change how im finding shape pixels, rotate it around central axis and extrapolate points rather than rotate corners then filter out irrelevant points</p></li>
+</ul>
 
 
 
