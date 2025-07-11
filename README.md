@@ -1,7 +1,7 @@
 <h1> Square Geometrising Project</h1>
 <p>
 Early project I took in first year of university. Truthfully the code isn't great but after my current Fluid simulation project I plan on rewriting all of this so it isn't nearly as bad. </p>
-
+<p> I did change some of the code to try and optimise the process which did overrall alleviate some of the stress of computation but at the same time the image quality is a bit worse than the previews </p>
 <p>
 Some previews of the code working:</p>
 <p> Original Image</p>
