@@ -1,6 +1,6 @@
 <h1> Square Geometrising Project</h1>
 <p>
-Early project I took mid university. Truthfully the code isn't great but after my current Fluid simulation project I plan on rewriting all of this so it isn't nearly as bad. </p>
+Early project I took in first year of university. Truthfully the code isn't great but after my current Fluid simulation project I plan on rewriting all of this so it isn't nearly as bad. </p>
 
 <p>
 Some previews of the code working:</p>
